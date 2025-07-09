@@ -1,1 +1,1 @@
-# july-repo
+# Die Workshop Repo für Demo Zwecke
